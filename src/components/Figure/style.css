@@ -1,0 +1,10 @@
+figure {
+	display: flex;
+	justify-content: center;
+	padding-top: 20px;
+	img {
+		width: 80px;
+		height: 80px;
+		border-radius: 50%;
+	}
+}
